@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'friendly_id'
+
 gem 'will_paginate'
 
 gem 'paperclip'
